@@ -66,6 +66,39 @@
       "body": "<p>Privacy is core to Reddit’s culture and values. We also believe in the open Internet, and keep Reddit publicly accessible to foster human learning and research as well as building community, belonging, and empowerment.</p>\n<p>While Reddit is publicly accessible, commercial entities are still required to contract with us to access data on Reddit. These licensing arrangements allow us to put up guardrails on the usage of this data that help uphold our values and protect redditors. </p>\n<p>For instance:</p>\n<ul>\n<li>We insist that our partners respect the privacy of redditors and their communities. This includes respecting users’ decisions to delete their content and any content that we remove for violating our Content Policy. </li>\n<li>Partners are not allowed to use their access to identify individuals or their personal information, including for ad targeting purposes. We also don’t share private chats or messages. </li>\n<li>We demand that our partners not abuse their access to data on Reddit. They are not allowed to use data on Reddit to conduct background checks, facial recognition, government surveillance, or help law enforcement do any of the above. </li>\n<li>And, as always, we don’t sell the personal information of redditors. </li>\n</ul>\n<p>For more information on how to delete your Reddit data, see <a href=\"https://support.reddithelp.com/hc/en-us/sections/360008917951-Removing-Your-Reddit-Data\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.</p>\n<p>For more information about Reddit’s Privacy Policy, see <a href=\"https://www.reddit.com/policies/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.<br><br></p>"
     },
     {
+      "id": 24656943463828,
+      "url": "https://reddit.zendesk.com/api/v2/help_center/en-us/articles/24656943463828.json",
+      "html_url": "https://support.reddithelp.com/hc/en-us/articles/24656943463828-What-happens-when-I-delete-my-data",
+      "author_id": 360309431063,
+      "comments_disabled": true,
+      "draft": false,
+      "promoted": false,
+      "position": 0,
+      "vote_sum": -7,
+      "vote_count": 13,
+      "section_id": 360008917951,
+      "created_at": "2024-03-15T21:48:40Z",
+      "updated_at": "2024-05-08T19:02:02Z",
+      "name": "What happens when I delete my data? ",
+      "title": "What happens when I delete my data? ",
+      "source_locale": "en-us",
+      "locale": "en-us",
+      "outdated": false,
+      "outdated_locales": [],
+      "edited_at": "2024-03-15T22:07:24Z",
+      "user_segment_id": null,
+      "permission_group_id": 240006,
+      "content_tag_ids": [],
+      "label_names": [
+        "delete my data",
+        "what happens when reddit deletes my data",
+        "what happens when reddit removes my data",
+        "delete data",
+        "remove data"
+      ],
+      "body": "<p>Reddit promptly makes deleted data unavailable on the Reddit platform and subsequently deletes such data, unless we have <a href=\"https://www.reddit.com/policies/privacy-policy#policy-h2-3\" target=\"_blank\" rel=\"noopener noreferrer\">a legal reason or a legitimate business need </a>(e.g., helping protect the safety of Reddit and redditors) to retain the data for longer. </p>\n<p>Reddit also allows moderators and other third parties to access public Reddit data using Reddit's developer services, including Reddit Embeds, our APIs, Developer Platform, and similar technologies. Reddit's <a href=\"https://www.redditinc.com/policies/developer-terms\" target=\"_blank\" rel=\"noopener noreferrer\">Developer Terms</a> are our standard terms governing how these services are used by third parties.</p>\n<p>Any third party accessing Reddit data is generally required by Reddit to remove deleted content from their systems when the content is deleted by redditors or Reddit. Reddit also provides instructions or automated means to third parties to make data deletion easy for them. </p>\n<p>To learn more about your data and privacy on Reddit, check out our <a href=\"https://www.redditinc.com/policies/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a> and <a href=\"https://www.redditinc.com/policies/user-agreement\" target=\"_blank\" rel=\"noopener noreferrer\">User Agreement</a>. </p>"
+    },
+    {
       "id": 24368510335892,
       "url": "https://reddit.zendesk.com/api/v2/help_center/en-us/articles/24368510335892.json",
       "html_url": "https://support.reddithelp.com/hc/en-us/articles/24368510335892-What-is-Reddit-Pro",
@@ -902,38 +935,6 @@
         "creator portal"
       ],
       "body": "<p>We offer a few tools to get artists started on their journey of creating their custom Collectible Avatar.  </p>\n<h3 id=\"h_01HHG547MPPYAQQVPAP832HA02\">Creator Portal</h3>\n<p>This is where you upload your avatar art, get registered, accept our <a href=\"https://www.redditinc.com/policies/creator-terms\" target=\"_blank\" rel=\"noopener noreferrer\">terms for creators</a>, and finish the submission process. Once your work is uploaded in the portal, Reddit will review your work; successfully reviewed and approved avatars will be listed on the Collectible Avatars Shop for sale.</p>\n<p><img src=\"https://support.reddithelp.com/hc/article_attachments/15345505643796\" alt=\"HCA_04_creatorPortalMain.png\"></p>\n<p>This space also serves as a place for you to check if your artwork is properly matching your vision for your Collectible Avatar. You can check to see if your artwork is compatible within the avatar builder here as well as get helpful tips on how to set up and register the details for your artwork.</p>\n<p><a href=\"https://www.reddit.com/avatar/creator-tools\" target=\"_blank\" rel=\"noopener noreferrer\">Visit the Portal!</a></p>"
-    },
-    {
-      "id": 14132818508436,
-      "url": "https://reddit.zendesk.com/api/v2/help_center/en-us/articles/14132818508436.json",
-      "html_url": "https://support.reddithelp.com/hc/en-us/articles/14132818508436-Getting-Paid",
-      "author_id": 360309431063,
-      "comments_disabled": true,
-      "draft": false,
-      "promoted": false,
-      "position": 0,
-      "vote_sum": 3,
-      "vote_count": 13,
-      "section_id": 14132723188244,
-      "created_at": "2023-03-21T21:24:02Z",
-      "updated_at": "2024-04-23T17:09:02Z",
-      "name": "Getting Paid",
-      "title": "Getting Paid",
-      "source_locale": "en-us",
-      "locale": "en-us",
-      "outdated": false,
-      "outdated_locales": [],
-      "edited_at": "2024-02-16T21:50:12Z",
-      "user_segment_id": null,
-      "permission_group_id": 240006,
-      "content_tag_ids": [],
-      "label_names": [
-        "fees",
-        "collectible avatars creator program",
-        "creator program",
-        "stripe"
-      ],
-      "body": "<h2 id=\"h_01HBDHH9C1C0R84V16RESJ7CE4\">Stripe</h2>\n<p>Reddit partners with Stripe to help creators receive their funds from primary sales in the Collectible Avatar Shop. You’ll be asked to provide a verified Stripe address within the Creator Portal and before completing the submission process for your Collectible Avatar. You should receive your primary sales earnings in your Stripe account within 30 days after a month’s close if you’ve earned more than $50. For example, you should receive March earnings by April 30th.</p>\n<p>Note: For non-US creators, there will be a delay of 5-7 days. <br><br></p>\n<hr>\n<h2 id=\"h_01HBDHH9C1WKF4BKP6TADZT7N7\">\n<br>Fees</h2>\n<p><strong>Reddit Fees</strong></p>\n<p>Reddit charges a total fee of 20% as compensation for providing the services to you, as well as to support the Collectible Avatars Creator Program.  </p>\n<p><strong>Payment Processing Fees</strong></p>\n<p>Payment processors also charge transaction fees for each Collectible Avatar sale, and those fees can vary greatly depending on whether Collectible Avatars are purchased from Reddit mobile apps or our website (i.e., 30% from Apple and Google, compared to ~2.9% from Stripe).<br><br></p>\n<hr>\n<h2 id=\"h_01HBDHH9C1P3CKSH03BQY1DHT9\">\n<br>Royalties</h2>\n<p>When your Collectible Avatars are sold on NFT marketplaces that honor royalties (e.g., OpenSea), buyers must pay a 5% royalty fee. You are entitled to 50% of the 5% royalty fee (2.5%), and Reddit is entitled to the remaining 50%. (Not all NFT marketplaces honor royalty fees though, and Reddit cannot collect royalty fees from NFT marketplaces on your behalf.) </p>\n<p>Before we continue, here are a few things you should know: </p>\n<ol>\n<li>\n<strong>Series Smart Contract</strong> - This is your smart contract for your Collectible Avatars. When people buy from your series, the Collectible Avatars will mint from this smart contract.</li>\n<li>\n<strong>Secondary Contract</strong> - This “splitter” smart contract collects your royalties and periodically pushes withdrawals of your royalties into your creator wallet.</li>\n<li>\n<strong>Creator Wallet</strong> - This is the <a href=\"https://support.reddithelp.com/hc/en-us/articles/14134708160916-Web3-Safety-101#h_01GZFSPN90ZKFW8XDV4X11Z01E\" target=\"_blank\" rel=\"noopener noreferrer\">wallet</a> you provide us and where your royalty earnings are deposited after withdrawals. </li>\n</ol>\n<p>As part of our services, Reddit will help with configuring the series smart contract and secondary contract, but we don’t own the series smart contract, secondary contract, or creator wallet. This is all owned by you. </p>\n<p>In order to support royalties from secondary sales, Reddit must include a single royalty address on your series smart contract. We use your secondary contract as that address. Then, to make collecting royalties from secondary sales easier, your secondary contract is configured to automatically collect royalties from secondary sales and periodically push withdrawals of royalties to your creator wallet and Reddit’s wallet. Your secondary contract will push withdrawals on the last day of each month but will only push withdrawals if the current royalty balance in your secondary contract exceeds 20 MATIC or 0.01 ETH. </p>\n<p>If you don’t want to wait for your secondary contract’s monthly push withdrawal, then you can trigger a withdrawal on your own by following these instructions:<br><br></p>\n<h4 id=\"h_01HBDHH9C1WVKHZRAZGC9WBB96\"><strong>Manually Withdraw Royalties</strong></h4>\n<ol>\n<li>\n<p>Find your series smart contract address and view it on polygonscan.com.</p>\n<ul>\n<li>\n<p><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\">You can find this on OpenSea (click the polygon icon </span><em style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\">View on polygonscan</em><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\"> button).</span></p>\n</li>\n</ul>\n</li>\n<li>Find your secondary contract from the series smart contract and view it on polygonscan.com.\n<ul>\n<li>On the page for your series smart contract, select the <em>Contract</em> tab and then click the <em>Read as Proxy</em> button to read your series smart contract.</li>\n<li>Find <em>9. Royalties</em> and click the <em>Query</em> button to see your secondary contract address.</li>\n<li>Click on the address link, this will bring you to your secondary contract.</li>\n</ul>\n</li>\n<li>Trigger with withdrawal on your secondary contract.\n<ul>\n<li>On the page for your secondary contract, select the <em>Contract</em> tab and then click the <em>Write Contract</em> button to call methods on the secondary contract.</li>\n<li>Click <em>Connect to Web3</em> and connect your creator wallet.</li>\n<li>Find <em>3. Withdraw</em> and type <em>true</em> in the input and then click the <em>Write</em> button.</li>\n<li>This will create a transaction in your creator wallet. Complete the transaction and then after it’s confirmed you’ll see your portion of the royalties in your creator wallet.\n<ul>\n<li>Completing this transaction will require having MATIC in your creator wallet to pay for gas.</li>\n</ul>\n</li>\n</ul>\n</li>\n</ol>\n<h4 id=\"h_01HBDHH9C1PAM45TAY0VTAMW85\"><strong>Update Your Creator Wallet</strong></h4>\n<ol>\n<li>View your secondary contract on polygonscan.com.\n<ul>\n<li>Follow instructions 1–2 above.</li>\n</ul>\n</li>\n<li>Transfer ownership of your secondary contract.\n<ul>\n<li>On the page for your secondary contract, select the <em>Contract</em> tab and then click the <em>Write Contract</em> button to call methods on the secondary contract.</li>\n<li>Click <em>Connect to Web3</em> and connect your creator wallet (this must be your original creator wallet, which is the current owner of the secondary contract).</li>\n<li>Find <em>2. transferOwnership</em> and type the new address in the input that you want to use as your new creator wallet and then click the <em>Write</em> button.\n<ul>\n<li>Make sure that the new creator wallet address you type is correct—transferring ownership isn’t reversible and if you don’t control the new creator wallet then you’ll be locked out of this secondary contract forever.</li>\n</ul>\n</li>\n<li>This will create a transaction in your old creator wallet. Complete the transaction and then after it’s confirmed you’ll see the updated owner if you select <em>Read Contract</em>.\n<ul>\n<li>Completing this transaction will require having MATIC in your creator wallet to pay for gas.</li>\n</ul>\n</li>\n</ul>\n</li>\n</ol>\n<p><strong>If You Can No Longer Access Your Creator Wallet</strong></p>\n<p>If you can no longer access your creator wallet that owns your series smart contract and secondary contract, you won’t be able to recover the funds in the secondary contract nor will you be able to transfer ownership to a new creator wallet. Please <a href=\"https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=19148839169812&amp;tf_19148906982804=creator_program\" target=\"_blank\" rel=\"noopener noreferrer\">contact Reddit support</a> and we can create a new secondary contract for all future Collectible Avatar series you create.</p>"
     }
   ],
   "sort_by": "position",
