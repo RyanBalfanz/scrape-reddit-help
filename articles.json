@@ -9,7 +9,7 @@
     {
       "id": 27664798081812,
       "url": "https://reddit.zendesk.com/api/v2/help_center/en-us/articles/27664798081812.json",
-      "html_url": "https://support.reddithelp.com/hc/en-us/articles/27664798081812-Changelog",
+      "html_url": "https://support.reddithelp.com/hc/en-us/articles/27664798081812-Changelog-June-25-2024",
       "author_id": 383906619451,
       "comments_disabled": true,
       "draft": false,
@@ -19,14 +19,14 @@
       "vote_count": 1,
       "section_id": 27664826932116,
       "created_at": "2024-06-18T11:22:21Z",
-      "updated_at": "2024-06-26T15:20:31Z",
-      "name": "Changelog",
-      "title": "Changelog",
+      "updated_at": "2024-06-26T17:12:41Z",
+      "name": "Changelog - June 25, 2024",
+      "title": "Changelog - June 25, 2024",
       "source_locale": "en-us",
       "locale": "en-us",
       "outdated": false,
       "outdated_locales": [],
-      "edited_at": "2024-06-25T18:23:15Z",
+      "edited_at": "2024-06-26T16:39:49Z",
       "user_segment_id": null,
       "permission_group_id": 240006,
       "content_tag_ids": [],
@@ -34,7 +34,7 @@
         "changelog",
         "updates"
       ],
-      "body": "<p><strong>Changelog June 25, 2024<br><br></strong></p>\n<h3 id=\"h_01J0NFG191N4Y9J1Y0BWVFVPWX\">New iOS Languages: Swedish and Dutch</h3>\n<h4 id=\"h_01J0NHETQPNAE61Q7G33SCFGXF\"><span style=\"color: #434343;\">What’s changing?</span></h4>\n<p>iOS will now support <a href=\"https://support.reddithelp.com/hc/articles/204528049-What-languages-is-Reddit-available-in\" target=\"_blank\" rel=\"noopener noreferrer\">10 languages</a>, including two new additions: Swedish and Dutch. </p>\n<h4 id=\"h_01J0NFGY3R7GEXQCWBCQ44EW6J\"><span style=\"color: #434343;\">When is this change happening?</span></h4>\n<p>These new languages are now available on the iOS app. <br><br></p>\n<hr>\n<h3 id=\"h_01J0NFH9PGMEXD6SATWKKJ2PYA\">\n<br>Achievement badges available in profile </h3>\n<h4 id=\"h_01J0NFGY3RJF1GZAVSDTBYRKQB\"><span style=\"color: #434343;\">What’s changing?</span></h4>\n<p>You can now track and maintain your streak with daily participation on Reddit and unlock <a href=\"https://support.reddithelp.com/hc/articles/27063106698004-What-are-achievements\" target=\"_blank\" rel=\"noopener noreferrer\">achievement badges</a> for completing certain contribution milestones in your communities or by completing tasks across the platform. </p>\n<p>To view your streak and achievement badges, tap on <img src=\"https://support.reddithelp.com/hc/article_attachments/27664798081300\" alt=\"icon_trophy.png\" width=\"20\" height=\"20\"><em> Achievements </em>in your profile menu.</p>\n<div class=\"callout callout--info\">Note: Achievement badges won't be available for contributions in Not Safe for Work (NSFW), sexually explicit, violent, or drug related communities. </div>\n<h4 id=\"h_01J0NFGY3RMSEVT1ZCWN1F8T0E\"><span style=\"color: #434343;\">When is this change happening?</span></h4>\n<p>Achievement badges are now available to everyone on the <a href=\"https://support.reddithelp.com/hc/articles/360060630212-Where-can-I-download-the-official-Reddit-mobile-app\" target=\"_blank\" rel=\"noopener noreferrer\">Reddit app</a> and reddit.com.<br><br></p>\n<hr>\n<h3 id=\"h_01J0NFJWPFJMPB9DJGJ9K1030P\">\n<br>Country expansion for the Contributor Program </h3>\n<h4 id=\"h_01J0NFJNH8P75X2CTKFHZFMVSQ\"><span style=\"color: #434343;\">What’s changing?</span></h4>\n<p>Eligibility for the <a href=\"https://support.reddithelp.com/hc/en-us/articles/17331620007572-What-is-the-Contributor-Program-and-how-can-I-participate\" target=\"_blank\" rel=\"noopener noreferrer\">Contributor Program</a> has expanded to <a href=\"https://support.reddithelp.com/hc/en-us/articles/17331620007572-What-is-the-Contributor-Program-and-how-can-I-participate#h_01HNK4K4AWP5ZEVYSX0EBKRQEH\" target=\"_blank\" rel=\"noopener noreferrer\">26 additional countries</a>.</p>\n<h4 id=\"h_01J0NFJNH8FR46GKKRXWPQ5MJB\"><span style=\"color: #434343;\">When is this change happening?</span></h4>\n<p>Redditors in 61 countries can now  participate in the Contributor Program, i.e. redditors who meet eligibility criteria and make qualifying contributions can earn cash.</p>"
+      "body": "<h3 id=\"h_01J0NFG191N4Y9J1Y0BWVFVPWX\">New iOS Languages: Swedish and Dutch</h3>\n<h4 id=\"h_01J0NHETQPNAE61Q7G33SCFGXF\"><span style=\"color: #434343;\">What’s changing?</span></h4>\n<p>iOS will now support <a href=\"https://support.reddithelp.com/hc/articles/204528049-What-languages-is-Reddit-available-in\" target=\"_blank\" rel=\"noopener noreferrer\">10 languages</a>, including two new additions: Swedish and Dutch. </p>\n<h4 id=\"h_01J0NFGY3R7GEXQCWBCQ44EW6J\"><span style=\"color: #434343;\">When is this change happening?</span></h4>\n<p>These new languages are now available on the iOS app. <br><br></p>\n<hr>\n<h3 id=\"h_01J0NFH9PGMEXD6SATWKKJ2PYA\">\n<br>Achievement badges available in profile </h3>\n<h4 id=\"h_01J0NFGY3RJF1GZAVSDTBYRKQB\"><span style=\"color: #434343;\">What’s changing?</span></h4>\n<p>You can now track and maintain your streak with daily participation on Reddit and unlock <a href=\"https://support.reddithelp.com/hc/articles/27063106698004-What-are-achievements\" target=\"_blank\" rel=\"noopener noreferrer\">achievement badges</a> for completing certain contribution milestones in your communities or by completing tasks across the platform. </p>\n<p>To view your streak and achievement badges, tap on <img src=\"https://support.reddithelp.com/hc/article_attachments/27664798081300\" alt=\"icon_trophy.png\" width=\"20\" height=\"20\"><em> Achievements </em>in your profile menu.</p>\n<div class=\"callout callout--info\">Note: Achievement badges won't be available for contributions in Not Safe for Work (NSFW), sexually explicit, violent, or drug related communities. </div>\n<h4 id=\"h_01J0NFGY3RMSEVT1ZCWN1F8T0E\"><span style=\"color: #434343;\">When is this change happening?</span></h4>\n<p>Achievement badges are now available to everyone on the <a href=\"https://support.reddithelp.com/hc/articles/360060630212-Where-can-I-download-the-official-Reddit-mobile-app\" target=\"_blank\" rel=\"noopener noreferrer\">Reddit app</a> and reddit.com.<br><br></p>\n<hr>\n<h3 id=\"h_01J0NFJWPFJMPB9DJGJ9K1030P\">\n<br>Country expansion for the Contributor Program </h3>\n<h4 id=\"h_01J0NFJNH8P75X2CTKFHZFMVSQ\"><span style=\"color: #434343;\">What’s changing?</span></h4>\n<p>Eligibility for the <a href=\"https://support.reddithelp.com/hc/en-us/articles/17331620007572-What-is-the-Contributor-Program-and-how-can-I-participate\" target=\"_blank\" rel=\"noopener noreferrer\">Contributor Program</a> has expanded to <a href=\"https://support.reddithelp.com/hc/en-us/articles/17331620007572-What-is-the-Contributor-Program-and-how-can-I-participate#h_01HNK4K4AWP5ZEVYSX0EBKRQEH\" target=\"_blank\" rel=\"noopener noreferrer\">26 additional countries</a>.</p>\n<h4 id=\"h_01J0NFJNH8FR46GKKRXWPQ5MJB\"><span style=\"color: #434343;\">When is this change happening?</span></h4>\n<p>Redditors in 61 countries can now  participate in the Contributor Program, i.e. redditors who meet eligibility criteria and make qualifying contributions can earn cash.</p>"
     },
     {
       "id": 26410290525844,
