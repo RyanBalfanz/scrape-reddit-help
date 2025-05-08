@@ -1,5 +1,5 @@
 {
-  "count": 402,
+  "count": 403,
   "next_page": "https://support.reddithelp.com/api/v2/help_center/en-us/articles.json?page=2&per_page=30",
   "page": 1,
   "page_count": 14,
@@ -146,8 +146,8 @@
       "draft": false,
       "promoted": false,
       "position": 0,
-      "vote_sum": 1834,
-      "vote_count": 3698,
+      "vote_sum": 1837,
+      "vote_count": 3701,
       "section_id": 201025739,
       "created_at": "2025-02-11T16:36:25Z",
       "updated_at": "2025-03-27T14:01:02Z",
@@ -399,14 +399,14 @@
       "vote_count": 1082,
       "section_id": 13964650777620,
       "created_at": "2024-07-22T08:56:23Z",
-      "updated_at": "2025-05-07T04:15:42Z",
+      "updated_at": "2025-05-08T00:15:55Z",
       "name": "What is chat and how do I start one?",
       "title": "What is chat and how do I start one?",
       "source_locale": "en-us",
       "locale": "en-us",
       "outdated": false,
       "outdated_locales": [],
-      "edited_at": "2024-10-21T12:50:45Z",
+      "edited_at": "2025-05-08T00:15:55Z",
       "user_segment_id": null,
       "permission_group_id": 240006,
       "content_tag_ids": [],
@@ -414,7 +414,7 @@
         "chat",
         "How to chat"
       ],
-      "body": "<p>Chat is a real-time messaging feature available to all redditors. It allows redditors to engage in private or group conversations with others who are online at the same time.</p>\n<p>Chat can be used for a wide range of purposes, such as discussing a specific topic, organizing a group event, or just chatting with friends. </p>\n<h3 id=\"h_01J3CTDY27TVGJK444B5T92C93\"><span style=\"color: #434343;\">How do I chat with other redditors?</span></h3>\n<p>If you’d like to start a chat with a redditor on the Reddit app, go to their profile and tap the chat icon (<img src=\"https://lh7-us.googleusercontent.com/docsz/AD_4nXckbwzYJ_daEri0M5MvrGjDK0wZQtqsmVBHC8a7c9_Ms4mWM5rtzSh3XVJWQrKHgS3pJg-Ow9l5IdFLa-rMySja7uZh6m7FbRHEmEVedp0M1eWACrWEZpm6UDJ_40PUDF5jNQxhEeOtVwtjpvyiehE1Hz3e?key=YzGDh21FNFd0r1XVSHw9Ug\" width=\"20\" height=\"20\">) or if you know their username you can type it into the search bar when creating a new direct chat. First, tap the chat icon (<img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXd1CD0PdUOFyNES7RXsLODyh75z5K55iuBMLhOve26eJosCVHXn3V7aJG5Uhg-QJqIFC6zqAY_Ufjog5tHyMZRBzLb8J9AWNyN87q8WwnqqT9v4VLF8SHMX4jURnJPxeaS8rq2Kv5O3w3pRID4yurexgc0t?key=YzGDh21FNFd0r1XVSHw9Ug\" width=\"20\" height=\"20\">) at the bottom of the screen, then tap the new chat icon (<img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXd48K-GZelJioYufa8x8yKnpurfHUqj3BsDDFcME6_UuMQ0xMoR7lMJvdeCVGxZljwVRW-gpmfXKLvi4aLFXyFzYDKQ0KGgOThXoZCMmXc0nzRDQIWCAV5fqjHdRvvkUxtk81QudPzZ5oDmwaWHSF_l9SZv?key=YzGDh21FNFd0r1XVSHw9Ug\" width=\"20\" height=\"20\">) and enter the username in the provided search field.</p>\n<p>If you’re on reddit.com, go to a redditor’s profile and click the <img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXd1CD0PdUOFyNES7RXsLODyh75z5K55iuBMLhOve26eJosCVHXn3V7aJG5Uhg-QJqIFC6zqAY_Ufjog5tHyMZRBzLb8J9AWNyN87q8WwnqqT9v4VLF8SHMX4jURnJPxeaS8rq2Kv5O3w3pRID4yurexgc0t?key=YzGDh21FNFd0r1XVSHw9Ug\" width=\"20\" height=\"20\"> <em>Chat</em> option just below their username in their profile card on the right. </p>\n<p><a href=\"https://support.reddithelp.com/hc/sections/360008805652-Chat\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more about chatting on Reddit</a> or <a href=\"https://support.reddithelp.com/hc/articles/360060638392-Why-can-t-I-start-a-chat-\" target=\"_blank\" rel=\"noopener noreferrer\">get help starting a chat if you’re having trouble</a>.  </p>",
+      "body": "<p>Chat is a real-time messaging feature available to all redditors. It allows redditors to engage in private or group conversations with others who are online at the same time.</p>\n<p>Chat can be used for a wide range of purposes, such as discussing a specific topic, organizing a group event, or just chatting with friends.</p>\n<h3 id=\"h_01J3CTDY27TVGJK444B5T92C93\"><span style=\"color: #434343;\">How do I chat with other redditors?</span></h3>\n<p>If you’d like to start a chat with a redditor on the Reddit app, go to their profile and tap the chat icon (<img src=\"https://lh7-us.googleusercontent.com/docsz/AD_4nXckbwzYJ_daEri0M5MvrGjDK0wZQtqsmVBHC8a7c9_Ms4mWM5rtzSh3XVJWQrKHgS3pJg-Ow9l5IdFLa-rMySja7uZh6m7FbRHEmEVedp0M1eWACrWEZpm6UDJ_40PUDF5jNQxhEeOtVwtjpvyiehE1Hz3e?key=YzGDh21FNFd0r1XVSHw9Ug\" width=\"20\" height=\"20\">) or if you know their username you can type it into the search bar when creating a new direct chat. First, tap the chat icon (<img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXd1CD0PdUOFyNES7RXsLODyh75z5K55iuBMLhOve26eJosCVHXn3V7aJG5Uhg-QJqIFC6zqAY_Ufjog5tHyMZRBzLb8J9AWNyN87q8WwnqqT9v4VLF8SHMX4jURnJPxeaS8rq2Kv5O3w3pRID4yurexgc0t?key=YzGDh21FNFd0r1XVSHw9Ug\" width=\"20\" height=\"20\">) at the bottom of the screen, then tap the new chat icon (<img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXd48K-GZelJioYufa8x8yKnpurfHUqj3BsDDFcME6_UuMQ0xMoR7lMJvdeCVGxZljwVRW-gpmfXKLvi4aLFXyFzYDKQ0KGgOThXoZCMmXc0nzRDQIWCAV5fqjHdRvvkUxtk81QudPzZ5oDmwaWHSF_l9SZv?key=YzGDh21FNFd0r1XVSHw9Ug\" width=\"20\" height=\"20\">) and enter the username in the provided search field.</p>\n<p>If you’re on reddit.com, go to a redditor’s profile and click the <img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXd1CD0PdUOFyNES7RXsLODyh75z5K55iuBMLhOve26eJosCVHXn3V7aJG5Uhg-QJqIFC6zqAY_Ufjog5tHyMZRBzLb8J9AWNyN87q8WwnqqT9v4VLF8SHMX4jURnJPxeaS8rq2Kv5O3w3pRID4yurexgc0t?key=YzGDh21FNFd0r1XVSHw9Ug\" width=\"20\" height=\"20\"> <em>Chat</em> option just below their username in their profile card on the right. </p>\n<p><a href=\"https://support.reddithelp.com/hc/sections/360008805652-Chat\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more about chatting on Reddit</a>, <a href=\"https://support.reddithelp.com/hc/articles/37286437796500\" target=\"_blank\" rel=\"noopener noreferrer\">managing chat conversations</a>, or <a href=\"https://support.reddithelp.com/hc/articles/360060638392-Why-can-t-I-start-a-chat-\" target=\"_blank\" rel=\"noopener noreferrer\">getting help starting a chat if you’re having trouble</a>.  </p>",
       "user_segment_ids": []
     },
     {
